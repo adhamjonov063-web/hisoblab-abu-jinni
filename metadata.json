@@ -1,0 +1,8 @@
+{
+  "name": "HisobLab",
+  "description": "Hisobotlarni ko'rish, ma'lumotlarni tahlil qilish va CSV jadvallar bilan ishlash uchun qulay mobil ilova.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
